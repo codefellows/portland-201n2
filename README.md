@@ -5,7 +5,9 @@ Welcome to portland-201n2!
 **Instructors & TA's**
 
 *Lead Instructor*: Mark Fitzgerald
+
 *Assistant Instructor*: Cesar Jimenez
+
 *TA*: Sonya Trachsel
 
 # Introduction
@@ -42,8 +44,9 @@ Check out the full [Table of Contents](SUMMARY.md).
 **Duration**: Monday, Tuesday, Wednesday, Thursday, and Sunday for 8 weeks (sort of).
 * First class: March 8, 2016
 * Last class: May 1, 2016
+
 **Week**    | Sunday | Monday | Tuesday | Wednesday | Thursday
--------------|---------------
+-------------|---------------|---------------|---------------|---------------|---------------
 Mar 6 - 12 | X | X | Class 6:30 - 9:30 | Lab 6:30 - 9:30 | Class 6:30 - 9:30
 Mar 13 - 19 | Class & Lab 9:00 - 5:00 | Lab 6:30 - 9:30 | Class 6:30 - 9:30 | X | Lab 6:30 - 9:30
 Mar 20 - 26 | Class & Lab 9:00 - 5:00 | X | Class 6:30 - 9:30 | X | Lab 6:30 - 9:30
