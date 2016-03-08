@@ -3,7 +3,9 @@
 ### Introduction to Web Development
 **Instructors & TA's**
 
-*Instructor*: Mark Fitzgerald
+*Lead Instructor*: Mark Fitzgerald
+*Assistant Instructor*: Cesar Jimenez
+*TA*: Sonya Trachsel
 
 ##Week 1 - Daily Plans
 ###Class 01
