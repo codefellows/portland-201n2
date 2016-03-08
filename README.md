@@ -1,5 +1,4 @@
 # Code 201: Foundations of Software Development
-### Introduction to Web Development
 Welcome to portland-201n2!
 
 **Instructors & TA's**
@@ -31,17 +30,9 @@ Check out the full [Table of Contents](SUMMARY.md).
 
 **Room**: In the main classroom
 
-**Class**:
-* Tuesday & Thursday: 6:30pm to 9:30pm
-* Sunday: 1pm to 4pm (lunch 12pm-1pm)
-
-**Lab**:
-* Monday & Wednesday: 6:30pm to 9:30pm
-* Sunday: 9am-12pm
-
 **Homework**: There are reading and coding assignments several times a week.
 
-**Duration**: Monday, Tuesday, Wednesday, Thursday, and Sunday for 8 weeks (sort of).
+**Duration**: Monday, Tuesday, Wednesday, Thursday, and Sunday for 8 weeks (sort of - see table below).
 * First class: March 8, 2016
 * Last class: May 1, 2016
 

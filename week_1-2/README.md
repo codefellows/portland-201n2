@@ -4,7 +4,9 @@
 **Instructors & TA's**
 
 *Lead Instructor*: Mark Fitzgerald
+
 *Assistant Instructor*: Cesar Jimenez
+
 *TA*: Sonya Trachsel
 
 ##Week 1 - Daily Plans
