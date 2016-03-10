@@ -19,7 +19,6 @@
 3. Intro to Dev Env (Tool Belt & Browser basics)
 4. Intro to User Stories
 5. HTML & JS Basics
-6. GitHub Gists
 
 ###Class 02
 1. HTML Basics
