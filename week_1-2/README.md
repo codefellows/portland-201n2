@@ -33,22 +33,25 @@
 1. Code Review
 2. Control Flow
 3. Logical Operators & Counters
+4. HTML Lists
+5. HTML Tables
 
 +++BREAK+++
 
-4. Github Branches & PR's
-5. Separation of Concerns
-6. README.md / Documentation
+6. Github Branches & PR's
+7. Separation of Concerns
+8. README.md / Documentation
 
 ###Class 04
 1. Code Review & Survey Comments
 2. Functions
+3. Introduction to CSS
+4. Color
 
 +++BREAK+++
 
-3. HTML Links
-4. Basic DOM Manipulation
-5. Pair Programming Basics
+5. Basic DOM Manipulation
+6. Pair Programming Basics
 
 ###Class 05
 1. Code Review
