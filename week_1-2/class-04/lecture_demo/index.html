@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Code 201 Example</title>
+    <script type="text/javascript">
+      var userName = prompt("Please enter your name:");
+      var enroll = confirm("Click 'OK' to enroll, 'Cancel' to audit.");
+      var studentInfo = "<tr><td>"+userName+"</td><td>- N/A -</td><td>- N/A -</td></tr>";
+    </script>
+  </head>
+  <body>
+    <h1>Welcome to Code 201&trade;</h1>
+    <a href="https://www.codefellows.org"><img src="images/Logo.png" ></a>
+    <p>Hello World! Welcome to <a href="https://www.codefellows.org/courses/code-201/foundations-of-software-development">Code Fellows Code 201</a>. This is a course full of cool technology. <br>Fasten your seat belts.</p>
+    <p>More stuff to come. I'm too excited for what comes next!</p>
+    <ul>
+      <strong>Code Fellows Classes:</strong>
+      <li>Code 101</li>
+      <li>Code 201</li>
+      <li>Code 301</li>
+      <li>Code 401</li>
+    </ul>
+    <table border="1" width="600">
+      <tr>
+        <th width="25%">Name</th>
+        <th width="50%">E-Mail</th>
+        <th width="25%">Phone</th>
+      </tr>
+      <tr>
+        <td>John Doe</td>
+        <td>john@test.com</td>
+        <td>503-555-1234</td>
+      </tr>
+      <tr>
+        <td>Jane Student</td>
+        <td>jane@home.com</td>
+        <td>503-555-9876</td>
+      </tr>
+      <script type="text/javascript">
+        if(enroll) {
+          document.write(studentInfo);
+        }
+      </script>
+      <tr>
+        <th colspan="3">Auditing</th>
+      </tr>
+      <tr>
+        <td>Joe Citizen</td>
+        <td>- N/A -</td>
+        <td>- N/A -</td>
+      </tr>
+      <script type="text/javascript">
+        if(!enroll) {
+          document.write(studentInfo);
+        }
+      </script>
+    </table>
+<!--
+    <script type="text/javascript" src="main.js"></script>
+-->
+  </body>
+</html>
