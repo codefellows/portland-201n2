@@ -16,10 +16,11 @@
   2. `git init` & `.gitignore` file
 2. Code Review & Survey Responses
 3. Domain Modeling
-4. Object Literals
+4. Document Object Model
 
 +++BREAK+++
 
+4. Object Literals
 
 ###Class 07
 1. Code Review
