@@ -55,22 +55,10 @@
 
 ###Class 05
 1. Code Review
-2. HTML5 / Semantics vs Style
-3. HTML Lists
+2. JavaScript Arrays
 
 +++BREAK+++
 
-4. Introduction to CSS
-5. Pair Programming
-6. (if we have time) What languages / courses interest you?
+3. CSS Box Model
+4. HTML Forms
 
-###Class 06
-1. Code Review & Monday Lab Reminder
-2. Arrays
-
-+++BREAK+++
-
-3. Color
-4. Images
-5. Deployment
-6. Sneak peek week 3-4
