@@ -1,4 +1,4 @@
-# sea-201n2
+# portland-201n2
 ## Weeks 3-4 night and weekend track:
 ### Object Oriented Programming & the DOM
 **Instructors & TA's**
