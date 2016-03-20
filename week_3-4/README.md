@@ -20,7 +20,7 @@
 
 +++BREAK+++
 
-4. Object Literals
+5. Object Literals
 
 ###Class 07
 1. Code Review
