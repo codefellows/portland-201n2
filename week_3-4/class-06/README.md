@@ -20,7 +20,7 @@ You will also simultaneously be working with more specific style and design conc
  - As a developer, I want to represent the store data in a list format on the webpage, so my client can view the information
  - As a developer, I want to use object oriented programming to build this site, so that the site will be more effective and the code will be easier to read and understand
 
- [See an example here](week_3-4/assets/example_mon.png)
+ [See an example here](../../week_3-4/assets/example_mon.png)
 
 ## Technical Requirements
  - New repository properly set up with scaffolding and README, and cloned to local machine
