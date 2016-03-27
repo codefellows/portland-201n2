@@ -1,0 +1,13 @@
+/*
+* {border: 1px solid black;}
+*/
+nav, aside {display: inline-block; width: calc(25% - 2px); vertical-align: top;}
+section {font-size: 18px; display: inline-block; width: calc(50% - 2px); vertical-align: top;}
+section p:first-child {margin-top:0;}
+h1 {display: inline-block; font-size: 48px; vertical-align: -12px;}
+header img {vertical-align: middle;}
+nav ul {list-style-type: none; margin: 0; padding: 0;}
+nav ul li {padding: 6px;}
+nav a {color: red; font-weight: bold; text-decoration: none; font-family: Helvetica, sans-serif;}
+nav li:hover {background-color: #dddddd;}
+aside {font-size: 14px; background-color: #eeeeee; border: 1px dashed #aaaaaa; border-radius: 8px;}

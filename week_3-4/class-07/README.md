@@ -12,9 +12,9 @@ In lab today we'll be working on the first draft of our styleguide for Pat. Take
 [Submit Your Work](https://canvas.instructure.com/courses/1007443/modules/items/9018927)
 
 ## User Stories (MVP)
- - As a user, I want a styleguide for my website, so that anyone working on the site (including me) in the future will have a great reference tool to work from
-- As a developer, I want to use proper HTML5 semantic markup to structure my page.
-- As a developer, I want to add the store data to the page using DOM manipulation methods and properties.
+ - As a user, I want a styleguide for my website, so that anyone working on the site (including me) in the future will have a great reference tool to work from.
+ - As a developer, I want to use proper HTML5 semantic markup to structure my page.
+ - As a developer, I want to add the store data to the page using DOM manipulation methods and properties.
 
 ## Technical Requirements
  - Styleguide meets basic requirements of the problem domain
