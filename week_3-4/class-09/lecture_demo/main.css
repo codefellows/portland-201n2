@@ -1,0 +1,29 @@
+/*
+* {border: 1px solid black;}
+*/
+nav, aside {display: inline-block; width: calc(25% - 2px); vertical-align: top;}
+section {font-size: 18px; display: inline-block; width: calc(50% - 2px); vertical-align: top;}
+section p:first-child {margin-top:0;}
+h1 {display: inline-block; font-size: 48px; vertical-align: -12px;}
+header {position: relative;}
+header img {vertical-align: middle; position: absolute; right: 0;}
+nav ul {list-style-type: none; margin: 0; padding: 0;}
+nav ul li {}
+nav a {
+    display: block;
+    padding: 6px;
+    color: red;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica, sans-serif;
+    border-radius: 4px;
+}
+nav a:hover {background-color: #dddddd;}
+.submenu a {color:green;}
+aside {font-size: 14px; background-color: #eeeeee; border: 1px dashed #aaaaaa; border-radius: 8px;}
+
+/* Menu */
+.submenu {display: none; margin-left: 110px; margin-top: -30px; position: absolute;}
+#main-menu > li:hover .submenu {display: block;}
+#legal-ease li {display: inline-block; width: 100px; font-size: 10px;}
+#legal-ease a {color: #555555;}

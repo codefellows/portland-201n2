@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      form, #display-area {display: inline-block; width: 250px; margin-left: 20%;}
+      label {width: 100px; display: inline-block;}
+      .small-text {font-size: 10px;}
+      label.required {color: red;}
+      input.required {background-color: #ffaaaa;}
+    </style>
+  </head>
+  <body>
+    <form>
+      <label for="firstName">First Name: *</label>
+      <input type="text" id="firstName" name="first"><br>
+      <label for="lastName">Last Name: *</label>
+      <input type="text" id="lastName" name="last"><br>
+      <label for="email">E-Mail: *</label>
+      <input type="text" id="email" name="email"><br>
+      <label for="phone">Phone:</label>
+      <input type="text" id="phone" name="phone"><br>
+      <span class="small-text">* = Required</span><br>
+      <input type="button" value="Evaluate Form" onclick="evaluateForm(this.form)">
+    </form>
+    <div id="display-area"></div>
+    <script type="text/javascript" src="form.js"></script>
+  </body>
+</html>
