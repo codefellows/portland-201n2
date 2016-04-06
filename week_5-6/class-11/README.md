@@ -1,7 +1,9 @@
 # Week 5-6 Class-11
+[**Week 5 Feedback**](https://canvas.instructure.com/courses/990777/assignments/4230204)
+*You will receive an email from Code Fellows with a link to the survey. Once complete, please complete this assignment as well.*
 
 # Reading Reminder
-* [CanvasJS and Canvas API Articles](https://canvas.instructure.com/courses/1007443/modules/items/9018953)
+* [CanvasJS and Canvas API Articles](https://canvas.instructure.com/courses/1007443/modules/items/9018956)
 
 # Assignment for Class
 

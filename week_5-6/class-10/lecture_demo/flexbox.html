@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      /*
+      nav ul {list-style-type: none; padding: 0; text-align: center;}
+      nav li {display: inline-block; padding: 20px;}
+      */
+      nav ul {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 20px;
+      }
+      nav li {padding: 0 15px;}
+      #left {background-color: yellow; width: 25%;}
+      #right {background-color: red; width: 25%; }
+      article {background-color: green; width: 45%; }
+      #main-content {display: flex;}
+      #first {order: 3;}
+      #fourth {order: 4;}
+      #fifth {order: 5;}
+    </style>
+  </head>
+  <body>
+    <h1>Flexbox Example</h1>
+    <nav>
+      <ul>
+        <li id="first">1) Home</li>
+        <li id="second">2) Products</li>
+        <li id="third">3) Services</li>
+        <li id="fourth">4) About Us</li>
+        <li id="fifth">5) Contact</li>
+      </ul>
+    </nav>
+    <section id="main-content">
+      <aside id="left">Left Side Content</aside>
+      <article><p>
+We're acquainted with the wormhole phenomenon, but this... Is a remarkable piece of bio-electronic engineering by which I see much of the EM spectrum ranging from heat and infrared through radio waves, et cetera, and forgive me if I've said and listened to this a thousand times. This planet's interior heat provides an abundance of geothermal energy. We need to neutralize the homing signal.
+</p>
+
+<p>
+Unidentified vessel travelling at sub warp speed, bearing 235.7. Fluctuations in energy readings from it, Captain. All transporters off. A strange set-up, but I'd say the graviton generator is depolarized. The dark colourings of the scrapes are the leavings of natural rubber, a type of non-conductive sole used by researchers experimenting with electricity. The molecules must have been partly de-phased by the anyon beam.
+</p>
+
+<p>
+Now what are the possibilities of warp drive? Cmdr Riker's nervous system has been invaded by an unknown microorganism. The organisms fuse to the nerve, intertwining at the molecular level. That's why the transporter's biofilters couldn't extract it. The vertex waves show a K-complex corresponding to an REM state. The engineering section's critical. Destruction is imminent. Their robes contain ultritium, highly explosive, virtually undetectable by your transporter.
+</p>
+
+<p>
+Now what are the possibilities of warp drive? Cmdr Riker's nervous system has been invaded by an unknown microorganism. The organisms fuse to the nerve, intertwining at the molecular level. That's why the transporter's biofilters couldn't extract it. The vertex waves show a K-complex corresponding to an REM state. The engineering section's critical. Destruction is imminent. Their robes contain ultritium, highly explosive, virtually undetectable by your transporter.
+</p>
+
+</article>
+      <aside id="right">Right Side Content</aside>
+    </section>
+  </body>
+</html>

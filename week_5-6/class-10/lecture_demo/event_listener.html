@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <input type="button" value="Test" id="testButton">
+    <script>
+      var test = document.getElementById("testButton");
+      // test.onclick=function() {alert("Function 1")};
+      // test.onclick=function() {alert("Function 2")};
+      test.addEventListener("click", function() {alert("Function 1")});
+      test.addEventListener("click", function() {alert("Function 2")});
+    </script>
+  </body>
+</html>
