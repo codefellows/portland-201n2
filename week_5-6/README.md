@@ -29,9 +29,9 @@
 
 ###Class 13
 1. Code Review
-2. JavaScript Drag & Drop
 
 +++BREAK+++
 
+2. CSS Transitions and Animations
 3. Planning and Building a Project
 
